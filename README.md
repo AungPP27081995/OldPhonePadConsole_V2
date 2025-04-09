@@ -15,4 +15,5 @@ Installation
 
 Run the Application 
 
-1. Double click OldPhonePadConsole.exe .
+1. got to ~\OldPhonePadConsole\bin\publish\ and run setup.exe to install the application.
+2.run the OldPhonePadConsole.exe
